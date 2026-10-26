@@ -1,0 +1,15 @@
+{
+	"item.utilikit.prospector": "矿物探测仪",
+	"item.utilikit.teleporter": "标记传送仪",
+	"item.utilikit.spatial_backpack": "空间背包",
+	"container.utilikit.spatial_backpack": "空间背包",
+	"message.utilikit.marker_set": "已标记当前位置。",
+	"message.utilikit.marker_missing": "尚未标记地点（潜行 + 右键标记）",
+	"message.utilikit.marker_invalid": "无法抵达标记点所在的维度……",
+	"message.utilikit.teleported": "已传送至标记点。",
+	"message.utilikit.prospector_detected": "探测到 %s 处矿脉",
+	"tooltip.utilikit.marker": "标记：%s（%s, %s, %s）",
+	"tooltip.utilikit.no_marker": "暂无标记（潜行 + 右键标记）",
+	"tooltip.utilikit.stored": "已储存：%s",
+	"tooltip.utilikit.withdraw_hint": "点击取出 64 / Shift 点击物品存入全部"
+}

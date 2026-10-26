@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IDI",
+    "DCD",
+    "IDI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "C": { "item": "minecraft:compass" }
+  },
+  "result": { "item": "utilikit:prospector", "count": 1 }
+}

@@ -1,0 +1,11 @@
+{
+	"block.realcraft.lit_torch": "点燃的火把",
+	"block.realcraft.lit_wall_torch": "点燃的墙上火把",
+	"block.realcraft.unlit_torch": "熄灭的火把",
+	"block.realcraft.unlit_wall_torch": "熄灭的墙上火把",
+	"message.realcraft.fracture": "你摔骨折了！行动变得困难……",
+	"message.realcraft.limp": "你扭伤了脚，一瘸一拐……",
+	"message.realcraft.overweight": "你背得太重了，几乎走不动……",
+	"message.realcraft.heavy": "背包很沉，脚步变慢……",
+	"message.realcraft.deep_heat": "矿井深处灼热难耐……"
+}

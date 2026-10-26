@@ -1,0 +1,20 @@
+{
+	"item.bladecombo.bamboo_slash_blade": "竹光",
+	"item.bladecombo.iron_slash_blade": "铁刃·疾风",
+	"item.bladecombo.diamond_slash_blade": "钻石刃·晓",
+	"item.bladecombo.netherite_slash_blade": "合金刃·终焉",
+	"combo.bladecombo.stage1": "一之太刀·横斩",
+	"combo.bladecombo.stage2": "二之太刀·逆袈裟",
+	"combo.bladecombo.stage3": "三之太刀·回旋斩",
+	"combo.bladecombo.stage4": "奥义·幻影连斩",
+	"message.bladecombo.combo": "连击 %s —— %s",
+	"message.bladecombo.parry": "格挡架势！",
+	"message.bladecombo.parry_hit": "弹刀！架势震退了攻击者！",
+	"message.bladecombo.parry_cd": "格挡回气中……",
+	"message.bladecombo.need_link": "格挡需要连招衔接（命中后 0.6 秒内）或保持潜行",
+	"message.bladecombo.air": "空中连段·软着陆！",
+	"tooltip.bladecombo.kills": "击杀数：%s",
+	"tooltip.bladecombo.hint1": "连点攻击：四段连招无限循环",
+	"tooltip.bladecombo.hint2": "命中后右键（或潜行右键）：格挡架势",
+	"tooltip.bladecombo.hint3": "滞空斩击：4 秒内免疫摔落伤害"
+}

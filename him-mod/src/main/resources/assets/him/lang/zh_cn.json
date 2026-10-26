@@ -1,0 +1,15 @@
+{
+	"entity.him.herobrine": "HIM·Herobrine",
+	"entity.him.entity_303": "实体303",
+	"entity.him.null": "实体Null",
+	"entity.him.entity_404": "实体404",
+	"entity.him.white_eyes": "白眼",
+	"error.him.404.1": "错误 404：未找到玩家",
+	"error.him.404.2": "主线程异常：区块数据已损坏",
+	"error.him.404.3": "正在回滚世界存档…… 0%",
+	"error.him.404.4": "at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java)",
+	"error.him.404.5": "警告：检测到未授权实体",
+	"error.him.404.6": "java.lang.NullPointerException: world/data/mcos_v50.dat",
+	"title.him.404.line1": "连接已断开",
+	"title.him.404.line2": "错误代码：404"
+}

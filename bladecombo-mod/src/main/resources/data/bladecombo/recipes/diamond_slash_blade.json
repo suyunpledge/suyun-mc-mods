@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    "DBD",
+    " D "
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "B": { "item": "bladecombo:iron_slash_blade" }
+  },
+  "result": { "item": "bladecombo:diamond_slash_blade", "count": 1 }
+}

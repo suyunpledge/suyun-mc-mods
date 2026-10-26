@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "him",
+	"version": "${version}",
+	"name": "HIM — The Haunting of Herobrine",
+	"description": "A high-fidelity restoration of the Herobrine and Entity 303 creepypastas: the white-eyed figure staring from the fog, the red-eyed Entity 303, world anomalies (2x2 tunnels, leafless trees, sand pyramids, lit netherrack, cryptic signs), the golden totem that summons him — and the legendary battle between the two nemeses. Removed Herobrine.",
+	"authors": [
+		"HIM Legend Project"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/him/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.him.legend.HimMod"
+		],
+		"client": [
+			"com.him.legend.HimClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

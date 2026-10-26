@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east":  { "model": "realcraft:block/lit_wall_torch" },
+    "facing=north": { "model": "realcraft:block/lit_wall_torch", "y": 90 },
+    "facing=south": { "model": "realcraft:block/lit_wall_torch", "y": 270 },
+    "facing=west":  { "model": "realcraft:block/lit_wall_torch", "y": 180 }
+  }
+}

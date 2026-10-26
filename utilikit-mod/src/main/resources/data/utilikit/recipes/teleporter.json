@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PDP",
+    "DAD",
+    "PDP"
+  ],
+  "key": {
+    "P": { "item": "minecraft:ender_pearl" },
+    "D": { "item": "minecraft:diamond" },
+    "A": { "item": "minecraft:amethyst_shard" }
+  },
+  "result": { "item": "utilikit:teleporter", "count": 1 }
+}

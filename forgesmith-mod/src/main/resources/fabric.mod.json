@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "forgesmith",
+	"version": "${version}",
+	"name": "ForgeSmith — 锻造强化",
+	"description": "Smithing-table gear upgrades for vanilla armor and tools: ingots boost armor toughness & knockback resistance (armor), sword damage, pickaxe/shovel speed, axe durability; redstone grants max health (armor) and unbreaking (tools); lapis grants water resistance (armor) and conduit power (tools); emerald grants regeneration (armor) and lifesteal (tools). Up to 3 layers per item, higher-tier ingots override lower ones.",
+	"authors": [
+		"ForgeSmith Project"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/forgesmith/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.forgesmith.ForgeSmithMod"
+		],
+		"client": [
+			"com.forgesmith.ForgeSmithClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

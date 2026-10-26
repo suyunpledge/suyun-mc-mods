@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "realcraft",
+	"version": "${version}",
+	"name": "RealCraft — 现实工艺",
+	"description": "Turns Minecraft mechanics into realistic ones: torches burn out and get doused by rain (relight with flint & steel), felled trees actually fall, high drops fracture bones, overloaded packs slow you down, and deep mines get scorching hot.",
+	"authors": [
+		"RealCraft Project"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/realcraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.realcraft.RealCraftMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

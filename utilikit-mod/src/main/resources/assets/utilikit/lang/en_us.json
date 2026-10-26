@@ -1,0 +1,15 @@
+{
+	"item.utilikit.prospector": "Ore Prospector",
+	"item.utilikit.teleporter": "Mark Teleporter",
+	"item.utilikit.spatial_backpack": "Spatial Backpack",
+	"container.utilikit.spatial_backpack": "Spatial Backpack",
+	"message.utilikit.marker_set": "Location marked.",
+	"message.utilikit.marker_missing": "No marker set. (Sneak + right click to mark)",
+	"message.utilikit.marker_invalid": "The marked dimension cannot be reached...",
+	"message.utilikit.teleported": "Teleported to marker.",
+	"message.utilikit.prospector_detected": "%s ore vein(s) detected",
+	"tooltip.utilikit.marker": "Marker: %s (%s, %s, %s)",
+	"tooltip.utilikit.no_marker": "No marker (Sneak + right click to set)",
+	"tooltip.utilikit.stored": "Stored: %s",
+	"tooltip.utilikit.withdraw_hint": "Click: take 64 / Shift-click item in: store all"
+}

@@ -1,0 +1,15 @@
+{
+	"entity.him.herobrine": "Herobrine",
+	"entity.him.entity_303": "Entity 303",
+	"entity.him.null": "Null",
+	"entity.him.entity_404": "Entity 404",
+	"entity.him.white_eyes": "White Eyes",
+	"error.him.404.1": "ERROR 404: player not found",
+	"error.him.404.2": "Exception in thread \"main\": chunk data corrupted",
+	"error.him.404.3": "Rolling back world save… 0%",
+	"error.him.404.4": "at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java)",
+	"error.him.404.5": "WARNING: unauthorized entity detected",
+	"error.him.404.6": "java.lang.NullPointerException: world/data/mcos_v50.dat",
+	"title.him.404.line1": "Connection Lost",
+	"title.him.404.line2": "Error code: 404"
+}

@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "utilikit",
+	"version": "${version}",
+	"name": "UtiliKit — 实用工具系统",
+	"description": "Utility tools: an Ore Prospector that marks nearby ore veins with red dashed lines (works in either hand), a Mark Teleporter that saves a location and warps you back across dimensions, and a Spatial Backpack with auto-merging near-infinite storage.",
+	"authors": [
+		"UtiliKit Project"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/utilikit/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.utilikit.UtiliKitMod"
+		],
+		"client": [
+			"com.utilikit.UtiliKitClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

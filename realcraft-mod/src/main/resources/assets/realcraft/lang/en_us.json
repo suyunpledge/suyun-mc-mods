@@ -1,0 +1,11 @@
+{
+	"block.realcraft.lit_torch": "Lit Torch",
+	"block.realcraft.lit_wall_torch": "Lit Wall Torch",
+	"block.realcraft.unlit_torch": "Unlit Torch",
+	"block.realcraft.unlit_wall_torch": "Unlit Wall Torch",
+	"message.realcraft.fracture": "You fractured something! Moving is hard...",
+	"message.realcraft.limp": "You sprained your ankle...",
+	"message.realcraft.overweight": "You're carrying way too much...",
+	"message.realcraft.heavy": "Your pack is heavy, you slow down...",
+	"message.realcraft.deep_heat": "The deep mine is scorching hot..."
+}

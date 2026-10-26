@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "NBN",
+    " N "
+  ],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "B": { "item": "bladecombo:diamond_slash_blade" }
+  },
+  "result": { "item": "bladecombo:netherite_slash_blade", "count": 1 }
+}

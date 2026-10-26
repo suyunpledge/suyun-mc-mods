@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "ECE",
+    "SES"
+  ],
+  "key": {
+    "S": { "item": "minecraft:shulker_shell" },
+    "E": { "item": "minecraft:ender_eye" },
+    "C": { "item": "minecraft:shulker_box" }
+  },
+  "result": { "item": "utilikit:spatial_backpack", "count": 1 }
+}

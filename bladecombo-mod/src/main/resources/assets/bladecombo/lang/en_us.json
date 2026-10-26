@@ -1,0 +1,20 @@
+{
+	"item.bladecombo.bamboo_slash_blade": "Bamboo Slash Blade",
+	"item.bladecombo.iron_slash_blade": "Iron Slash Blade",
+	"item.bladecombo.diamond_slash_blade": "Diamond Slash Blade",
+	"item.bladecombo.netherite_slash_blade": "Netherite Slash Blade",
+	"combo.bladecombo.stage1": "Ichi no Tachi: Cross Slash",
+	"combo.bladecombo.stage2": "Ni no Tachi: Rising Cut",
+	"combo.bladecombo.stage3": "San no Tachi: Spin Slash",
+	"combo.bladecombo.stage4": "Ougi: Phantom Finish",
+	"message.bladecombo.combo": "Combo %s — %s",
+	"message.bladecombo.parry": "Parry Stance!",
+	"message.bladecombo.parry_hit": "Parry! Blade repelled the attacker!",
+	"message.bladecombo.parry_cd": "Parry is recharging...",
+	"message.bladecombo.need_link": "Parry needs a combo link (use within 0.6s after a hit) or sneaking",
+	"message.bladecombo.air": "Air combo — soft landing!",
+	"tooltip.bladecombo.kills": "Kills: %s",
+	"tooltip.bladecombo.hint1": "Mash attack: 4-stage combo loops forever",
+	"tooltip.bladecombo.hint2": "Use (right-click) after a hit or while sneaking: Parry stance",
+	"tooltip.bladecombo.hint3": "Slashing mid-air grants fall damage immunity (4s)"
+}
