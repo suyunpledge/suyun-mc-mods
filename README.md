@@ -1,6 +1,6 @@
 # Suyun MC Mods
 
-Minecraft Java **1.20.1** Fabric 模组合集，全部为原创玩法模组，需要 [Fabric Loader](https://fabricmc.net/) 0.14.21+ 与 [Fabric API](https://modrinth.com/mod/fabric-api)。
+Minecraft Java **1.20.1** Fabric 模组合集（SuyunCraft AI 为 **1.21.1**），全部为原创玩法模组，需要 [Fabric Loader](https://fabricmc.net/) 与 [Fabric API](https://modrinth.com/mod/fabric-api)。
 
 | 模组 | 版本 | 简介 |
 | --- | --- | --- |
@@ -9,6 +9,7 @@ Minecraft Java **1.20.1** Fabric 模组合集，全部为原创玩法模组，�
 | [HIM — The Haunting of Herobrine](him-mod/) | 1.2.0 | 高强度还原都市传说全家桶：白眼 Herobrine、实体 303、Null、404，含宿敌对决 |
 | [RealCraft 现实工艺](realcraft-mod/) | 1.0.0 | 火把会烧尽、树木会倒下、真实摔伤、负重系统等现实化机制 |
 | [UtiliKit 实用工具](utilikit-mod/) | 1.0.0 | 矿物探测仪、传送仪、空间背包三件实用工具，均带合成表 |
+| [SuyunCraft AI](suyuncraft-ai-mod/) | 0.5.0 | 客户端 AI 动作模组：聊天驱动移动/挖掘/蓝图建造，白名单指令与门控战斗，配本地 Python 桥接 |
 
 ## 构建
 
@@ -19,7 +20,7 @@ cd bladecombo-mod   # 或其他模组目录
 ./gradlew build     # Windows: gradlew.bat build
 ```
 
-产物在 `build/libs/<mod>-<version>.jar`，需要 JDK 17。首次构建会通过 Loom 拉取 Minecraft 与映射文件，请保持网络畅通。
+产物在 `build/libs/<mod>-<version>.jar`，需要 JDK 17（SuyunCraft AI 需要 JDK 21）。首次构建会通过 Loom 拉取 Minecraft 与映射文件，请保持网络畅通。
 
 ## 目录说明
 

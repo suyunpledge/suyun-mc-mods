@@ -1,0 +1,9 @@
+.tools/
+.gradle/
+build/
+run/
+bridge/__pycache__/
+*.local.json
+
+dist/
+build-*.log
